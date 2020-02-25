@@ -13,5 +13,5 @@ This is a simple game that allows a user score points whenever he matches two sa
 </ul>
 
 
-<h3>Screenshots:</h3>
+<h3>Screenshot:</h3>
 
