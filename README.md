@@ -15,3 +15,6 @@ This is a simple game that allows a user score points whenever he matches two sa
 
 <h3>Screenshot:</h3>
 
+![showcase](https://user-images.githubusercontent.com/40691059/75242706-e7aa6100-57c8-11ea-85a8-2696f868a806.PNG)
+
+
