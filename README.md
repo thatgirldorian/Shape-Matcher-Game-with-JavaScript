@@ -1,7 +1,7 @@
 # Shape-Matcher-Game-with-JavaScript
 
 <h3>Function & Description:</h3>
-This is a simple game that allows a user score points whenever he matches two same shapes.
+This is a simple game that allows a user score points whenever two shapes match.
 
 
 <h3>Technology Used:</h3>
